@@ -45,16 +45,14 @@ InterviewBehaviorAI/
 ---
 
 ##  How to Run
-1. Install dependencies:
 
-```bash
+1. Install dependencies:
 pip install -r requirements.txt
 2. Run the application:
-
 python main.py
-
 3. (Optional) Explore notebooks or scripts for training and evaluation:
 jupyter notebook
+
 # Future Improvements
 
 Improve model accuracy with larger datasets
@@ -68,3 +66,4 @@ Integration with interview scoring metrics
 # Author
 Sai Charitha
 Aspiring Machine Learning Engineer
+
