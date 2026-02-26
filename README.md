@@ -64,7 +64,8 @@ Cloud deployment for web access
 Integration with interview scoring metrics
 
 # Author
-Sai Charitha
+Satya Sai Charitha
+
 
 
 
