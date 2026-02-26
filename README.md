@@ -65,6 +65,6 @@ Integration with interview scoring metrics
 
 # Author
 Sai Charitha
-(Aspiring Machine Learning Engineer)
+
 
 
